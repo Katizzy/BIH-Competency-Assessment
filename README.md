@@ -125,6 +125,7 @@ Before committing to multi-term resource allocation, collect:
 
 - **BIH.ipynb**: Main analysis notebook
 - Input: `educate_linked_challenge_dirty_assessment.xlsx`
+- Output: `cleaned_data.xlsx` and `merged_data.xlsx`
 
 ## How to Use
 
